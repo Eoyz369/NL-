@@ -7,8 +7,8 @@
 // @match        https://www.nodeloc.com/*
 // @icon         https://www.nodeloc.com/assets/favicon-ptypmduq.png
 // @license      GPL-3.0 License
-// @supportURL   https://github.com/Eoyz369/NL+
-// @homepageURL  https://github.com/Eoyz369/NL+
+// @supportURL   https://github.com/Eoyz369/NL_Plus
+// @homepageURL  https://github.com/Eoyz369/NL_Plus
 // @grant        none
 // ==/UserScript==
  
